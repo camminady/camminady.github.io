@@ -20,7 +20,7 @@ You can write me a [mail](mailto:thomas@camminady.org) if you like.
 
 
 [Ray effect mitigation for the discrete ordinates method through quadrature rotation][2]
-```latex
+```
 @article{camminady2019ray,
   title={Ray effect mitigation for the discrete ordinates method through quadrature rotation},
   author={Camminady, Thomas and Frank, Martin and K{\"u}pper, Kerstin and Kusch, Jonas},
