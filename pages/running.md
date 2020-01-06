@@ -6,7 +6,7 @@ author: thomas
 layout: page
 ---
 
-I like running. Here's a cool [heatmap][2] visualizing routes I ran in three different cities.
+I like running. Here's a cool [heatmap][1] visualizing routes I ran in three different cities.
 
 
 [1]:{{ site.url}}/download/RunningHeatmaps.pdf
