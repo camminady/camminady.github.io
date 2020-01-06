@@ -16,4 +16,21 @@ You can write me a [mail](mailto:thomas@camminady.org) if you like.
 
 
 
-## Publications
+### Publications
+
+
+[Ray effect mitigation for the discrete ordinates method through quadrature rotation][2]
+```latex
+@article{camminady2019ray,
+  title={Ray effect mitigation for the discrete ordinates method through quadrature rotation},
+  author={Camminady, Thomas and Frank, Martin and K{\"u}pper, Kerstin and Kusch, Jonas},
+  journal={Journal of Computational Physics},
+  volume={382},
+  pages={105--123},
+  year={2019},
+  publisher={Elsevier}
+}
+```
+
+[1]:{{ site.url}}/download/CV_ThomasCamminady.pdf
+[2]:{{ site.url}}/download/Ray_effect_mitigation_for_the_discrete_ordinates_method_through_quadrature_rotation.pdf
