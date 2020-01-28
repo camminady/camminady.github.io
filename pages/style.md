@@ -22,6 +22,8 @@ Guidelines that shall help me to write consistently.
 - More on this in Section 2.
 - There are many sections in this work.
 
+### Math
+- Double integrals: $\int \int f(x,y) \, dx \, dy$
 ### Misc
 - Section title: Large small small small (Only capitalize first word.)
 - I like apples, bananas, and berries.
