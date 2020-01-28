@@ -14,3 +14,5 @@ layout: page
 
 ### Misc
 - Section title: Large small small small (only capitalize first word)
+- I like apples, bananas, and berries.
+- I like apples and bananas.
