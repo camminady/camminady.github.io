@@ -11,6 +11,11 @@ layout: page
 - ray-effects
 - path-length distribution
 
+### Citing and referencing
+- Previous work investigated the relation between A and B [2].
+- Combining (2) and (4) we obtain ...
+- I like Figure 2.2. (For the second figure in Section 2.)
+- There are many secions in this work.
 
 ### Misc
 - Section title: Large small small small (only capitalize first word)
