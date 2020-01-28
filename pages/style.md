@@ -15,6 +15,9 @@ layout: page
 - Previous work investigated the relation between A and B [2].
 - Combining (2) and (4) we obtain ...
 - I like Figure 2.2. (For the second figure in Section 2.)
+- I like Table 2.2.
+- I like Algorithm 2.2.
+- More on this in Section 2.
 - There are many secions in this work.
 
 ### Misc
