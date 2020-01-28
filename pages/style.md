@@ -12,6 +12,8 @@ Guidelines that shall help me to write consistently.
 - ray-effects
 - path-length distribution
 - cross section
+- time-dependent
+- energy-dependent
 
 ### Citing and referencing
 - Previous work investigated the relation between A and B [2].
