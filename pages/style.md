@@ -11,6 +11,7 @@ Guidelines that shall help me to write consistently.
 ### Words (spelling)
 - ray-effects
 - path-length distribution
+- cross section
 
 ### Citing and referencing
 - Previous work investigated the relation between A and B [2].
