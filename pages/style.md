@@ -6,6 +6,7 @@ author: thomas
 layout: page
 ---
 
+Guidelines that shall help me to write consistently.
 
 ### Words (spelling)
 - ray-effects
@@ -18,7 +19,7 @@ layout: page
 - I like Table 2.2.
 - I like Algorithm 2.2.
 - More on this in Section 2.
-- There are many secions in this work.
+- There are many sections in this work.
 
 ### Misc
 - Section title: Large small small small (Only capitalize first word.)
