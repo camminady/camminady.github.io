@@ -33,3 +33,4 @@ Guidelines that shall help me to write consistently.
 - Boltzmann equation
 - Euler equations
 - And therefore: Burgers equation (His name is Burgers. Not Burgers's equation and definitely not Burgers' equation.)
+- For inlined enumerations use i), ii), ...
