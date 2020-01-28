@@ -18,6 +18,11 @@ layout: page
 - There are many secions in this work.
 
 ### Misc
-- Section title: Large small small small (only capitalize first word)
+- Section title: Large small small small (Only capitalize first word.)
 - I like apples, bananas, and berries.
 - I like apples and bananas.
+- Thomas's house. (Singular, ending in s.)
+- The peoples' rights. (Plural, ending in s.)
+- Boltzmann equation
+- Euler equations
+- And therefore: Burgers equation (His name is Burgers. Not Burgers's equation and definitely not Burgers' equation.)
