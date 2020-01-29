@@ -28,6 +28,7 @@ Guidelines that shall help me to write consistently.
 ### Math
 - Double integrals: $\int \int f(x,y) \, dx \, dy$
 - \begin{align} something &+ long  \\\\ =& bla bla \\\\  &+ bla \end{align}
+
 ### Misc
 - Section title: Large small small small (Only capitalize first word.)
 - I like apples, bananas, and berries.
