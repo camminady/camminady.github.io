@@ -6,11 +6,8 @@ author: thomas
 layout: page
 ---
 
-![Thomas Camminady][3]{ width=50% }
 
-![Kitten]({{ site.url}}/download/Thomas_Camminady.jpg){: width=150 height=100 style="float:right; padding:16px"}
-
-![Kitten](/download/Thomas_Camminady.jpg){: width=150 height=100 style="float:right; padding:16px"}
+![Thomas Camminady](/download/Thomas_Camminady.jpg){: width=50 height=33 style="float:right; padding:16px"}
 
 
 I am a PhD student at the [Steinbuch Centre for Computing](https://www.scc.kit.edu/) at the [Karlsruhe Institute of Technology](https://www.kit.edu/) in the [Research Group Computational Science and Mathematical Methods](https://www.scc.kit.edu/ueberuns/rg-csmm.php).
@@ -23,7 +20,6 @@ You can write me a [mail](mailto:thomas@camminady.org) if you like, here's my [
 
 [1]:{{ site.url}}/download/CV_ThomasCamminady.pdf
 [2]:{{ site.url}}/download/publickey.txt
-[3]:{{ site.url}}/download/Thomas_Camminady.jpg
 
 
 
