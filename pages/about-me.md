@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-![Thomas Camminady](/download/Thomas_Camminady.jpg){: width=50 height=33 style="float:right; padding:16px"}
+![Thomas Camminady](/download/Thomas_Camminady.jpg | width=100)
 
 
 I am a PhD student at the [Steinbuch Centre for Computing](https://www.scc.kit.edu/) at the [Karlsruhe Institute of Technology](https://www.kit.edu/) in the [Research Group Computational Science and Mathematical Methods](https://www.scc.kit.edu/ueberuns/rg-csmm.php).
