@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/camminady
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://camminady.org
+  * I am camminady (https://keybase.io/camminady) on keybase.
+  * I have a public key ASA5qld1Ojmy-JRlCxcpXM55wWcakWwoxpbZ2lUItgMb7wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015ac04635c8301f88c91ebc60e958a374e7025f95bcd2443ba3548d4a3059360d0a",
+      "host": "keybase.io",
+      "kid": "012039aa57753a39b2f894650b17295cce79c1671a916c28c696d9da5508b6031bef0a",
+      "uid": "dc6df0e218d45a74d13252be01d39919",
+      "username": "camminady"
+    },
+    "merkle_root": {
+      "ctime": 1580287716,
+      "hash": "0a91fdab17afe48c90d758e714ef0171fc95cf18e89a1a0abdddf4618f19a9fcb26037d375ba1ab7802d3d5b692e64d625e2ffba690857b2819b37cb02b255c9",
+      "hash_meta": "e5b3e9650d190d244c9c9811a563ae4647d22c0b0f8071a0f67f7479e382fe4a",
+      "seqno": 14403990
+    },
+    "service": {
+      "entropy": "zfftQv16yaRBbRaA33VCi1SJ",
+      "hostname": "camminady.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580287731,
+  "expire_in": 504576000,
+  "prev": "952530d0770a387e35a048429a9ffda07952d0a1bd3882dcb4cc16225d16378e",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOapXdTo5sviUZQsXKVzOecFnGpFsKMaW2dpVCLYDG+8Kp3BheWxvYWTESpcCKcQglSUw0HcKOH41oEhCmp/9oHlS0KG9OILctMwWIl0WN47EIJTPj4vx2x5GMUBoBITA7rC8UXLGRPRqgZbiu14yycaHAgHCo3NpZ8RAW4+vEZb66iedfQkdvhMzMZgycg+hF+0RMk4Ic+xQmroQBKfpbWSECbymMSUH8sDkZIcpuI9pI07KYZaIjwkQC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPmROJK1zBlvhmlp0HVnJDoi1wf72gWqjqLoS9y4f1RAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/camminady
+
+==================================================================
+
