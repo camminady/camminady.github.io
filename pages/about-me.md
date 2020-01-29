@@ -9,7 +9,7 @@ layout: page
 
 <figure>
    <a href="/download/Thomas_Camminady.jpg">
-   <img src="/download/Thomas_Camminady.jpg" style="max-width: 400px;"
+   <img src="/download/Thomas_Camminady.jpg" style="max-width: 300px;"
       alt="Thomas Camminady" />
    </a>
    <figcaption></figcaption>
