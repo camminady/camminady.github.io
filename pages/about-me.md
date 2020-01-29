@@ -6,7 +6,7 @@ author: thomas
 layout: page
 ---
 
-![Thomas Camminady][3]
+![Thomas Camminady][3]{width=20%}
 
 I am a PhD student at the [Steinbuch Centre for Computing](https://www.scc.kit.edu/) at the [Karlsruhe Institute of Technology](https://www.kit.edu/) in the [Research Group Computational Science and Mathematical Methods](https://www.scc.kit.edu/ueberuns/rg-csmm.php).
 
