@@ -6,32 +6,32 @@ title: A Python Dictionary of Color Combinations
 The book ['A Dictionary of Color Combinations' by Sanzo Wada](https://www.amazon.com/Dictionary-Color-Combinations-Various/dp/4861522471) contains a collection of beautifully crafted color https://raw.githubusercontent.com/camminady/APDOCC/master/combinations. 
 This repository creates a digital version of that version that can be used digitally and  is basically a less polished version of the repository ['sanzo-wada' by dblodorn](https://github.com/dblodorn/sanzo-wada).
  
-The dictionaries containing the [https://raw.githubusercontent.com/camminady/APDOCC/master/combinations](https://raw.githubusercontent.com/camminady/APDOCC/master/https://raw.githubusercontent.com/camminady/APDOCC/master/combinations.json) and [colors](https://raw.githubusercontent.com/camminady/APDOCC/master/colors.json) can also be found in the [APDOCC repository](https://github.com/camminady/APDOCC).
+The dictionaries containing the [combinations](https://raw.githubusercontent.com/camminady/APDOCC/master/combinations.json) and [colors](https://raw.githubusercontent.com/camminady/APDOCC/master/colors.json) can also be found in the [APDOCC repository](https://github.com/camminady/APDOCC).
 
 ## How to use
 
-The main files are `https://raw.githubusercontent.com/camminady/APDOCC/master/combinations.json` and `colors.json`.
-Loading them as `https://raw.githubusercontent.com/camminady/APDOCC/master/combinations` and `colors` respectively, the usage is as follows:
+The main files are `combinations.json` and `colors.json`.
+Loading them as `combinations` and `colors` respectively, the usage is as follows:
 
 
 ```
->>>https://raw.githubusercontent.com/camminady/APDOCC/master/combinations[4] # note that '4' is the key of the dict. 
+>>>combinations[4] # note that '4' is the key of the dict. 
 [50, 148] # combination '4' is composed of colors '50' and '148'
 
 >>>colors[50] # check out color '50'
 {'name': 'Isabella Color',
  'cmyk': [15, 28, 60, 10],
- 'https://raw.githubusercontent.com/camminady/APDOCC/master/combinations': [4, 12, 241, 292],
+ 'combinations': [4, 12, 241, 292],
  'rgbfloat': (195.07500000000002, 165.24, 91.8),
  'rgb': [195, 165, 91],
  'hex': '#c3a55b',
  'index': 51}
 ```
 
-There are a total of 348 https://raw.githubusercontent.com/camminady/APDOCC/master/combinations and 157 different colors. Combinations contain one, two, three, four, or five colors. 
+There are a total of 348 combinations and 157 different colors. Combinations contain one, two, three, four, or five colors. 
 
 
-## All https://raw.githubusercontent.com/camminady/APDOCC/master/combinations
+## All combinations
 These are all https://raw.githubusercontent.com/camminady/APDOCC/master/combinations, sorted by number of colors contained.
 
 ### One color (arguably not a combination)
