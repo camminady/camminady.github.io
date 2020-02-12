@@ -32,7 +32,7 @@ There are a total of 348 combinations and 157 different colors. Combinations con
 
 
 ## All combinations
-These are all https://raw.githubusercontent.com/camminady/APDOCC/master/combinations, sorted by number of colors contained.
+These are all combinations, sorted by number of colors contained.
 
 ### One color (arguably not a combination)
 ![](https://raw.githubusercontent.com/camminady/APDOCC/master/combinations/1/087_1.png?raw=true)
