@@ -5,15 +5,7 @@ date: 2018-07-12T15:46:04+02:00
 author: thomas
 layout: page
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158820156-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-158820156-1');
-</script>
 
 
 <figure>
