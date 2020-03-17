@@ -7,6 +7,7 @@ layout: page
 ---
 
 
+
 <figure>
    <a href="/download/Thomas_Camminady.jpg">
    <img src="/download/Thomas_Camminady.jpg" style="max-width: 300px;"
